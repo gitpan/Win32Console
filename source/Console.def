@@ -1,0 +1,3 @@
+LIBRARY Console
+EXPORTS
+	boot_Win32__Console
